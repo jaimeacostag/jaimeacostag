@@ -11,7 +11,9 @@ I specialize in turning complex operational data into reliable, actionable insig
 - **Reporting & Compliance:** Inventory accuracy, serialization, regulatory and audit-ready reporting
 
 ### 🎯Projects
-[**Pharma Inventory Project**]
+**Pharma Inventory Projects**
+-obsolescence risk anaysis with synthetic data (Excel)
+-ABC analysis with synthetic data
 
 **Personal Interest Project**
 [**USGS Stream Flow Monitoring Dashboard**](https://github.com/jaimeacostag/usgs-api-dashboard) - Using a United States Geological Survey API, I use live stream flow data for my favorite fly fishing streams in a one-stop monitoring dashboard.
