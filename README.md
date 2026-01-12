@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I’m Jaime Acosta
 
-<!--
-**jaimeacostag/jaimeacostag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my data portfolio. This repository showcases hands-on projects that reflect how I approach data analysis, data engineering, and analytics in real-world, regulated business environments.
 
-Here are some ideas to get you started:
+### 🧠 Skills & Tools
+I specialize in turning complex operational data into reliable, actionable insights, with experience across:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Data Analysis & BI:** SQL (Oracle), Power BI (DAX, Power Query), Excel (Power Query, VBA)
+- **Data Engineering & Automation:** ETL design, data validation, Power Automate, API-based data ingestion
+- **Data Quality:** 
+- **Reporting & Compliance:** Inventory accuracy, serialization, regulatory and audit-ready reporting
+
+### 🎯Projects
+**USGS Stream Flow Monitoring Dashboard**{
+
+Feel free to explore the repositories, review the documentation, and reach out if you’d like to discuss any of the work.
