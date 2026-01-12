@@ -11,6 +11,11 @@ I specialize in turning complex operational data into reliable, actionable insig
 - **Reporting & Compliance:** Inventory accuracy, serialization, regulatory and audit-ready reporting
 
 ### 🎯Projects
-**USGS Stream Flow Monitoring Dashboard**{
+[**Pharma Inventory Project**]
+
+**Personal Interest Project**
+[**USGS Stream Flow Monitoring Dashboard**](https://github.com/jaimeacostag/usgs-data-pipeline) - Using a United States Geological Survey API, I use live stream flow data for my favorite fly fishing streams in a one-stop monitoring dashboard.
+
+[**Python EDA of Hourly USGS Stream Flow Data**](https://github.com/jaimeacostag/usgs-python-eda) - EDA of hourly USGS stream flow data for 2025 using Python.
 
 Feel free to explore the repositories, review the documentation, and reach out if you’d like to discuss any of the work.
