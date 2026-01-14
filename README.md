@@ -10,9 +10,8 @@ I specialize in turning complex operational data into reliable, actionable insig
 - **Data Analysis & BI:** SQL (Oracle), Power BI (DAX, Power Query), Excel (Power Query)
 
 ### 🎯Projects
-**Pharma Inventory Projects**
+**Pharma Inventory and Data Quality Projects**
 - obsolescence risk anaysis with synthetic data (Excel)
-- ABC analysis with synthetic data (Excel)
 - Item master data quality (SQL -> PowerBI)
 
 **Personal Interest Projects**
