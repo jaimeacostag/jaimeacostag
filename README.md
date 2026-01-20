@@ -11,9 +11,23 @@ I specialize in turning complex operational data into reliable, actionable insig
 -  **Technical Workflow:** ETL Processes (Power Query), APIs, Synthetic Dataset Design
 
 ### 🎯Projects
-**Pharma Data Quality Projects**
-- [**Item Master Data Quality Dashboard**](https://github.com/jaimeacostag/data-quality-dashboard) - SKU master quality check dashboard usign a synthetic data set (SQL -> Power Query -> Power BI) 
-- [**Inventory Obsolescence Risk Dashboard**](https://github.com/jaimeacostag/inventory-obsolescence-risk-dashboard) Inventory short-dating and expiration risk analysis with synthetic data (SQL -> Power Query -> Power BI)
-- [**USGS Stream Flow Monitoring Dashboard**](https://github.com/jaimeacostag/usgs-api-dashboard) - Using a United States Geological Survey API, I use live stream flow data for my favorite fly fishing streams in a one-stop monitoring dashboard (API -> Power Query -> Power BI).
 
-Feel free to explore the repositories, review the documentation, and reach out if you’d like to discuss any of the work.
+[**Item Master Data Quality Dashboard**](https://github.com/jaimeacostag/data-quality-dashboard)
+  
+  *SQL -> Power Query -> Power BI*
+  
+  Comprehensive dashboard for auditing and monitoring SKU master data. Using a synthetic dataset, I implemented automated quality checks for completeness and accuracy to avoid downstream supply chain issues.
+
+[**Inventory Obsolescence Risk Dashboard**](https://github.com/jaimeacostag/inventory-obsolescence-risk-dashboard)
+
+*SQL -> Power Query -> Power BI*
+  
+Inventory health monitoring tool for determining short-dating and expiration risk by inventory lot. I relied on a synthetic dataset to create a tool to help prioritize and mitigate this risk.
+
+
+[**USGS Stream Flow Monitoring Dashboard**](https://github.com/jaimeacostag/usgs-api-dashboard)
+
+*REST API -> Power Query -> Power BI*
+
+A personal project for monitoring streams for detemining optimal fly fishing conditions. This dashboard connects to the USGS Water Service API and pulls stream gage height, discharge, and air or water temperature where available. 
+
