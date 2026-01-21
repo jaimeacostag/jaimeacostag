@@ -25,9 +25,9 @@ I specialize in turning complex operational data into reliable, actionable insig
 Inventory health monitoring tool for determining short-dating and expiration risk by inventory lot. I relied on a synthetic dataset to create a tool to help prioritize and mitigate this risk.
 
 
-[**USGS Stream Flow Monitoring Dashboard**](https://github.com/jaimeacostag/usgs-api-dashboard)
+[**USGS Streamflow Monitoring Dashboard**](https://github.com/jaimeacostag/usgs-api-dashboard)
 
 *REST API -> Power Query -> Power BI*
 
-A personal project for monitoring streams for detemining optimal fly fishing conditions. This dashboard connects to the USGS Water Service API and pulls stream gage height, discharge, and air or water temperature where available. 
+A personal project for monitoring streams for determining optimal fly fishing conditions. This dashboard connects to the USGS Water Services API and pulls stream gage height, discharge, and air or water temperature where available. 
 
