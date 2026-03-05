@@ -1,8 +1,8 @@
-## 👋 Hi, I’m Jaime Acosta
+##  Hi, I’m Jaime Acosta
 
 Welcome to my data portfolio. This repository showcases hands-on projects that reflect how I approach data analysis in real-world, regulated business environments.
 
-### 🧠 Skills & Tools
+###  Skills & Tools
 I specialize in turning complex operational data into reliable, actionable insights, with experience across:
 
 - **Data Analysis & BI:** SQL, Power BI (DAX, Power Query), Excel (Advanced)
@@ -10,7 +10,7 @@ I specialize in turning complex operational data into reliable, actionable insig
 -  **Domain Expertise:** Inventory Management, Pharma Supply Chain
 -  **Technical Workflow:** ETL Processes (Power Query), APIs, Synthetic Dataset Design
 
-### 🎯Projects
+### Projects
 
 [**Item Master Data Quality Dashboard**](https://github.com/jaimeacostag/data-quality-dashboard)
   
